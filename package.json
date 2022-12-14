@@ -1,0 +1,23 @@
+{
+  "name": "03-meeti",
+  "version": "1.0.0",
+  "description": "Clon de meetup",
+  "main": "index.js",
+  "scripts": {
+    "css": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4drian-sanchez/clon-meetup.git"
+  },
+  "author": "Adrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4drian-sanchez/clon-meetup/issues"
+  },
+  "homepage": "https://github.com/4drian-sanchez/clon-meetup#readme",
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.56.2"
+  }
+}

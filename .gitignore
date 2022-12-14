@@ -1,0 +1,8 @@
+# Ignora la carpeta node_modules
+node_modules
+
+#Ignora las imagenes
+img
+
+#Ignora el package-lock.json
+package-lock.json
